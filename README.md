@@ -1,12 +1,15 @@
 ### Hi there 👋
 
+I am a graduate student at Northeastern University, where I am pursuing my Master's in Robotics. My interests primarily lie in Motion Planning and Computer Vision.
+
+A significant portion of my previous experiences involved leveraging Robot Operating System (ROS) and Python to design and implement solutions.
+ 
 <!--
 **saiv20/saiv20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
